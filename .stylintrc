@@ -11,7 +11,6 @@
   "efficient": "always",
   "extendPref": false,
   "globalDupe": true,
-  "indentPref": 2,
   "leadingZero": "never",
   "maxErrors": false,
   "maxWarnings": false,
